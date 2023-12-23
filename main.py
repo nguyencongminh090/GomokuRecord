@@ -5,7 +5,7 @@ from threading import Thread
 
 def main():
     username = 'bongma'
-    password = 'nyq1020'
+    password = 'xxxxx'
     board = Board()
 
     website = Website(username, password, board=board)

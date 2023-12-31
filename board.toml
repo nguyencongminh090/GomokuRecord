@@ -1,2 +1,4 @@
-size = 900
-background_color = "#F2DE61"
+size = 800
+background_color = "#696967"
+nbest = 2
+engine = "D:\\Python\\GomokuConnect\\RecordGomoku\\Rapfi\\engine.exe"
